@@ -976,7 +976,7 @@ export default function App() {
           onHoverChange={setIsHoveringPlaceholder}
           entrance="slide-right"
           imageSrc="/Media/ring rider.jpg"
-          videoSrc="/Media/Ringrider.mp4"
+          videoSrc="/Media/ringrider.mp4"
         />
         <MassivePlaceholder 
           id="focus-visor"
