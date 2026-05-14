@@ -957,7 +957,7 @@ export default function App() {
           onHoverChange={setIsHoveringPlaceholder}
           entrance="slide-left"
           imageSrc="/Media/Vienna Worker.jpg"
-          videoSrc="vienna worker.mp4"
+          videoSrc="/Media/vienna worker.mp4"
         />
         <MassivePlaceholder 
           id="ring-rider"
