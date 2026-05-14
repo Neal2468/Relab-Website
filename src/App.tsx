@@ -917,7 +917,7 @@ export default function App() {
             caption="[COND. 01: WASTE]" 
             description={<>Urbane Bio-Materie und synthetischer Abfall überschreiten in den dicht besiedelten Bezirken Wiens kritische Schwellenwerte. Standardisierte Entsorgungsprotokolle versagen bei der Eindämmung des Überlaufs. Sekundäre Eindämmungssektoren sind kompromittiert, was zu einer unregulierten Oberflächenverschmutzung führt. Die&nbsp;Straße erstickt an ihren eigenen Nebenprodukten.</>}
             onHoverChange={setIsHoveringPlaceholder}
-            imageSrc="/Media/Wien Sperrmuell.jpeg" 
+            imageSrc="/Media/Ma48mull.jpeg" 
             videoSrc=""
           />
           <ConditionBlock 
